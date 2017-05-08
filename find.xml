@@ -18,8 +18,13 @@
       <mask>*.haml</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
-      <mask>*.html</mask>
       <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
