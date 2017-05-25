@@ -17,7 +17,6 @@
       <mask>*.css</mask>
       <mask>*.yml</mask>
       <mask>*.haml</mask>
-      <mask>*.less</mask>
       <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -25,11 +24,15 @@
       <mask>*.h</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sa</mask>
-      <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.sas</mask>
+      <mask>*.sa</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
