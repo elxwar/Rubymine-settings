@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="angular-classroom" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -14,8 +15,6 @@
       <mask>*.mxml</mask>
       <mask>*.yml</mask>
       <mask>*.haml</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
       <mask>*.sass</mask>
       <mask>*.sas</mask>
       <mask>*.sa</mask>
@@ -29,11 +28,13 @@
       <mask>*.c</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
