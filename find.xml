@@ -28,12 +28,12 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.l</mask>
-      <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
