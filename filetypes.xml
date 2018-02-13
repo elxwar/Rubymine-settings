@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="rangular-service" type="JavaScript" />
       <mapping ext="map" type="JavaScript" />
+      <mapping pattern="jhj" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
