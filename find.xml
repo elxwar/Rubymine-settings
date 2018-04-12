@@ -1,39 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Marketing" />
-    <option name="defaultScopeName" value="Marketing" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Marketing" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.yml</mask>
-      <mask>*.haml</mask>
-      <mask>*.sass</mask>
-      <mask>*.sas</mask>
-      <mask>*.sa</mask>
-      <mask>*.s</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.j</mask>
-      <mask>*.l</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
-      <mask>*.less</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
